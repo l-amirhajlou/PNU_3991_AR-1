@@ -2,7 +2,7 @@
 # بهرام بهنژاد
 - [PNU_3991_AR](https://github.com/bahram200/PNU_3991_AR)
 - [Resume](https://bahram200.github.io/Behnejad/) 
-- [SOP](https://bahram200.github.io/Bahram_Behnejad_SOP/)
+- [SOP](https://bahram200.github.io/SOP/)
 - [GitHub](https://github.com/bahram200)
 -----------------
 
