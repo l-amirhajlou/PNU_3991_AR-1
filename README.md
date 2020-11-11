@@ -4,7 +4,7 @@
 - [Resume](https://bahram200.github.io/Behnejad/) 
 - [SOP](https://bahram200.github.io/SOP/)
 - [GitHub](https://github.com/bahram200)
-- [Certificate](https://github.com/bahram200)
+- [Certificate](https://github.com/bahram200/Proof-javascript-certificate/blob/main/certificate.jpeg)
 -----------------
 
 1. G-A01
